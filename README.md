@@ -31,7 +31,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## Contact with me:
-
+ <a href="https://www.instagram.com/sanchitumrao/profilecard/?igsh=cXZjNzZrM2s1bWpo"><img
+                    src="insta.png" width="50"></a>
+ <a href="https://www.linkedin.com/in/sanchit-umrao-888510320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img
+                    src="linkdin.png" width="50"></a>
+ <a href="sanchitumrao@gmail.com"> <img src="mail.png" width="50"></a>
 
 <!---
 Sanchitumrao/Sanchitumrao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
