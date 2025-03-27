@@ -35,7 +35,7 @@
                     src="insta.png" width="50"></a>
  <a href="https://www.linkedin.com/in/sanchit-umrao-888510320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img
                     src="linkdin.png" width="50"></a>
- <a href="(mailto:sanchitumrao@gmail.com)"> <img src="mail.png" width="50"></a>
+ [<img src="mail.png" width="50">](mailto:sanchitumrao@gmail.com) 
 
 <!---
 Sanchitumrao/Sanchitumrao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
