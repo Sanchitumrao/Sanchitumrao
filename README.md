@@ -1,19 +1,12 @@
 
 
-<img src="github-header-banner.png>
-  ## 👨‍💻 About me:
-  🚀 BCA Student | Tech Enthusiast 
+<img src="github-header-banner.png" width=100%>
 
-  
-:computer: I’m interested in **Web Development** and **Python Development**.
-
-
- 📌 I’m currently learning **Python Frameworks**.
-
-
- 🌱I am always eager to explore new technologies.
-
-
+  # 👨‍💻 About me:
+  🚀 BCA Student |tech Enthusiast| Aspiring Fullstack Engineer  
+  :computer: I’m interested in **Fullstack Development** and **AI/ML**  .  
+  🧠 I’m currently learning **Backend Development** and **System Design**.  
+  🌱I am always eager to explore new technologies.
   ## 🖥️Tech Stack:
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
@@ -35,7 +28,4 @@
                     src="linkdin.png" width="50"></a>
  [<img src="mail.png" width="50">](mailto:sanchitumrao@gmail.com) 
 
-<!---
-Sanchitumrao/Sanchitumrao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
