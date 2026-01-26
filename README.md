@@ -1,8 +1,6 @@
-<p> 
-  <h1 align="center">:wave: Hi, I’m Sanchit Umrao!</h1>
-</p>
 
- 
+
+<img src="github-header-banner.png>
   ## 👨‍💻 About me:
   🚀 BCA Student | Tech Enthusiast 
 
