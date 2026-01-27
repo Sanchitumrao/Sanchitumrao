@@ -3,7 +3,7 @@
 <img src="github-header-banner.png" width=100%>
 
   # 👨‍💻 About me:
-  🚀 BCA Student |tech Enthusiast| Aspiring Fullstack Engineer  
+  🚀 BCA Student |Tech Enthusiast| Aspiring Fullstack Engineer  
   :computer: I’m interested in **Fullstack Development** and **AI/ML**  .  
   🧠 I’m currently learning **Backend Development** and **System Design**.  
   🌱I am always eager to explore new technologies.
